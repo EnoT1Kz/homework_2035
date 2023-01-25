@@ -5,5 +5,4 @@
 - 🌱 I’m currently learning python... ...
 - 📫 How to reach me:
 -- 📨 shubinroma4@mail.ru
--- 📱 +7-900-000-00-00
--- 📱 +7-900-000-00-00
+-- 📱 +7-900-000-00-01
